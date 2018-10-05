@@ -1,5 +1,5 @@
 # docker-alpine-curl-ssh
-Stock alpine docker image with ssh included.
+Stock alpine docker image with curl + ssh included.
 
 ```
 FROM alpine:3.8
